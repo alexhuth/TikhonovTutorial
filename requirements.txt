@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+cython
+h5py
+nibabel
+lxml
+shapely
+html5lib
+tables
+pycortex
+jupyter

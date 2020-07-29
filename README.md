@@ -13,8 +13,8 @@ The fMRI data used in this tutorial was collected by Alex Huth and Wendy de Heer
 
 #### Citation
 The analysis demonstrated in this tutorial forms the basis of these two papers:
-[Nunez-Elizalde, A. O. et al., "Voxelwise encoding models with non-spherical multivariate normal priors" (2019) _NeuroImage_.](https://www.sciencedirect.com/science/article/abs/pii/S1053811919302988)
-[Huth, A. G. et al., "Natural speech reveals the semantic maps that tile human cerebral cortex" (2016) _Nature_.](https://www.nature.com/articles/nature17637)
+* [Nunez-Elizalde, A. O. et al., "Voxelwise encoding models with non-spherical multivariate normal priors" (2019) _NeuroImage_.](https://www.sciencedirect.com/science/article/abs/pii/S1053811919302988)
+* [Huth, A. G. et al., "Natural speech reveals the semantic maps that tile human cerebral cortex" (2016) _Nature_.](https://www.nature.com/articles/nature17637)
 
 Getting Started
 ---------------

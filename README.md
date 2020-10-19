@@ -9,7 +9,7 @@ This tutorial has three parts:
 * `3_tikhonov_tutorial.ipynb` - this part covers Tikhonov regression
 
 #### Acknowledgements
-The fMRI data used in this tutorial was collected by Alex Huth and Wendy de Heer at the University of California, Berkeley. Much of the theory work was done in concer with Anwar Nunez. All work was supervised by professors Jack Gallant and Frederic Theunissen of the UC Berkeley Psychology Department. Visualization is done using [pycortex](http://pycortex.org).
+The fMRI data used in this tutorial was collected by Alex Huth and Wendy de Heer at the University of California, Berkeley. Much of the theory work was done with Anwar Nunez. All work was supervised by professors Jack Gallant and Frederic Theunissen of the UC Berkeley Psychology Department. Visualization is done using [pycortex](http://pycortex.org).
 
 #### Citation
 The analysis demonstrated in this tutorial forms the basis of these two papers:
